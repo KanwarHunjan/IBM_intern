@@ -1,3 +1,4 @@
+![fabricca](https://user-images.githubusercontent.com/36883383/44056751-c605a832-9f66-11e8-8a61-e09c1a1505d8.png)
 
 
 # Hyperledger Fabric
