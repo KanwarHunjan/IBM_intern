@@ -58,6 +58,8 @@ You will also need to download and install the Hyperledger Fabric Samples. You w
 
 ![screenshot 58](https://user-images.githubusercontent.com/36883383/44056845-19acd528-9f67-11e8-8186-b3a7c8ad4b90.png)
 
+![screenshot 59](https://user-images.githubusercontent.com/36883383/44056848-1c688bfe-9f67-11e8-98a1-43776411b640.png)
+
 **Bring Down the Network**
 - ./byfn.sh -m down
 
