@@ -7,9 +7,11 @@ Hyperledger Fabric is a blockchain framework implementation and one of the Hyper
 In this document you will be getting a step by step guide on how to make a multi peer network in the fabric on a windows platform specifically.
 
 1.**Instal Docker**:
-Docker version 17.06.2-ce or greater is required, for Older versions of Windows: Docker Toolbox - again, Docker version Docker 17.06.2-ce or greater is required. You can easily download it from the official site of the docker community.
-You can check the version of Docker you have installed with the following command from a terminal prompt:
-docker --version
+Docker version 17.06.2-ce or greater is required, for Older versions of Windows: Docker Toolbox - again, Docker version Docker 17.06.2-ce or greater is required. You can check the version of Docker you have installed with the following command from a terminal prompt:
+- docker --version
+
+![docker](https://user-images.githubusercontent.com/36883383/44057122-dcf7d992-9f67-11e8-87e5-7f26c7412ca2.png)
+
 
 Before running any git clone commands, run the following commands:
 - git config --global core.autocrlf false
@@ -43,6 +45,9 @@ Please execute the following command from within the directory into which you wi
 You may want to add that to your PATH environment variable so that these can be picked up without fully qualifying the path to each binary. e.g.:
 - export PATH=<path to download location>/bin:$PATH
 - export PATH=/C:/Users/Khushal/exp/fabric-samples/bin:$PATH
+  
+  ![exportpath](https://user-images.githubusercontent.com/36883383/44057130-df2d8392-9f67-11e8-9967-9f90bba8aa76.png)
+
 Finally, the script will download the Hyperledger Fabric docker images from Docker Hub into your local Docker registry.
 
 6.**Build your first network**:
