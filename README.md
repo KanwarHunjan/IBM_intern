@@ -1,4 +1,4 @@
-# IBM_intern
+## IBM_intern
 
 This repository contains the step-by-step guide of the various test cases provided to us during the course of our intern.
 The problem statements provided to us during the course of our intern were as follows:-
