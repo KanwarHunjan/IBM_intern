@@ -1,4 +1,4 @@
-## IBM_intern
+## IBM_Internship2018
 
 This repository contains the step-by-step guide of the various test cases provided to us during the course of our intern.
 
