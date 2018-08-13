@@ -1,3 +1,6 @@
+![hl_default_quilt](https://user-images.githubusercontent.com/36883383/44053792-5e3789f8-9f5e-11e8-97e9-4f1c21409d8c.png)
+
+
 # Hyperledger Quilt
 
 Quilt is an implementation of the Interledger.Quilt is the most recent Hyperledger project and is a Java implementation of the Interledger protocol. It offers interoperability between ledger systems by executing the Interledger convention, which is basically a payment protocol and is intended to exchange an incentive crosswise over frameworks – both kind of ledgers, distributed and non-distributed. Below is the complete guide for sample setup of the hyperledger quilt.
