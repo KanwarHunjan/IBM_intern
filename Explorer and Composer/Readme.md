@@ -1,2 +1,2 @@
-## Exploer and Composer
+## Explorer and Composer
 
