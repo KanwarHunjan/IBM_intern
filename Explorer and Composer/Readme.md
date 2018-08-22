@@ -1,3 +1,3 @@
 ## Explorer and Composer
 
-![IBM](https://user-images.githubusercontent.com/36884193/44480505-ff97a680-a660-11e8-8ea1-93cf773a15b9.png)
+![Explorer](https://user-images.githubusercontent.com/36884193/44481052-7b462300-a662-11e8-9e17-54635afe7c70.png)
